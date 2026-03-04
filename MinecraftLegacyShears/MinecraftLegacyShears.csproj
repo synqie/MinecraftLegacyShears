@@ -7,7 +7,7 @@
     <ProjectGuid>{89528DCA-9A40-4062-8CC6-BECB272F63EB}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>MinecraftLegacyShears</RootNamespace>
-    <AssemblyName>MinecraftLegacyShears</AssemblyName>
+    <AssemblyName>LegacyShears</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
