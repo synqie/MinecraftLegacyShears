@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinecraftLegacyShears", "MinecraftLegacyShears\MinecraftLegacyShears.csproj", "{89528DCA-9A40-4062-8CC6-BECB272F63EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89528DCA-9A40-4062-8CC6-BECB272F63EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89528DCA-9A40-4062-8CC6-BECB272F63EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89528DCA-9A40-4062-8CC6-BECB272F63EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89528DCA-9A40-4062-8CC6-BECB272F63EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A013AE84-4A0B-4E90-9FCD-597BBA9E9B5F}
+	EndGlobalSection
+EndGlobal
