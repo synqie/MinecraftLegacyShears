@@ -81,6 +81,8 @@ namespace MinecraftLegacyShears
             DeleteAllExcept("Windows64", exceptions);
 
             DeleteDirectory("Saves");
+            DeleteDirectory("DurangoMedia");
+            DeleteDirectory("sce_sys");
 
         }
 
